@@ -1,0 +1,27 @@
+# Venv in Python cache
+venv/
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Osebne datoteke (ne deli Shazam podatkov!)
+*.csv
+shazam_*.csv
+clean_shazam_*.csv
+shazam*.csv
+nove_vnosi.csv
+polni_shazam.csv
+.env
+
+# API credentials (če jih imaš v datotekah)
+*.env
+config.py  # Če imaš ločeno
+
+# IDE datoteke
+.idea/
+*.iml
+
+# OS datoteke
+.DS_Store
+Thumbs.db
