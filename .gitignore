@@ -13,6 +13,7 @@ shazam*.csv
 nove_vnosi.csv
 polni_shazam.csv
 .env
+faking_skladbe.html
 
 # API credentials (če jih imaš v datotekah)
 *.env
